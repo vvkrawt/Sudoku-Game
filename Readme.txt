@@ -1,0 +1,2 @@
+This is a simple sudoku solver visualizer which uses the backtacking algorithm to find a solution to given sudoku problem. 
+Used pygame library of python to make the GUI and show the complete visualization.
